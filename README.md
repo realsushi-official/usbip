@@ -33,3 +33,6 @@ Then, you can inspect the simulated USB device behavior in both sides.
 ## API
 
 See code comments. Not finalized yet, so get prepared for api breaking changes.
+
+## Documentation and other sources
+(rust usbip)[https://docs.rs/usbip/latest/src/usbip/lib.rs.html#1-428]
